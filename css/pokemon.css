@@ -39,6 +39,10 @@ main img{
 	max-width: 100%;
 }
 
+main iframe{
+	position: left;
+}
+
 .box{
 	width: 1000px;
 	height: 800px;
